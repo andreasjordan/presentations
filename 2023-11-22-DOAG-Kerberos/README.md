@@ -20,7 +20,7 @@ Im Zentrum des Vortrags wird die Einrichtung von Kerberos stehen, aber einen kle
 
 ### Folien
 
-[Hier](2023-11-22-DOAG_K+A-Kerberos.pdf) finden Sie das DPF mit den Folien des Vortrages.
+[Hier](2023-11-22-DOAG_K+A-Kerberos.pdf) finden Sie das PDF mit den Folien des Vortrages.
 
 ### Videos
 
