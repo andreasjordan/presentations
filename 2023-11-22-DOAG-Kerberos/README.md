@@ -16,7 +16,7 @@ Im Zentrum des Vortrags wird die Einrichtung von Kerberos stehen, aber einen kle
 
 ### Link zur Agenda
 
-[Hier](https://meine.doag.org/events/anwenderkonferenz/2023/agenda/#eventDay.all#textSearch%2EKerberos%20Jordan) kommen Sie zur Agenda der DOAG, auf der Sie als Teilnehmer auch den Link zur Videoaufzeichnung finden.
+[Hier](https://meine.doag.org/events/anwenderkonferenz/2023/agenda/#eventDay.all#textSearch.Kerberos%20Jordan) kommen Sie zur Agenda der DOAG, auf der Sie als Teilnehmer auch den Link zur Videoaufzeichnung finden.
 
 ### Folien
 
