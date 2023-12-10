@@ -4,7 +4,7 @@ Eintritt nur mit Ticket – Kerberos für Oracle Datenbanken einrichten
 
 ### Veranstaltung
 
-DOAG Konferenz und Austellung, Nürnberg
+DOAG Konferenz und Ausstellung, Nürnberg
 
 ### Abstract
 
