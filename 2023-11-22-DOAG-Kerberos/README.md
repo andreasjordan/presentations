@@ -14,6 +14,10 @@ Geht das auch bei Oracle? Ja, es geht. Was an welcher Stelle wie eingerichtet we
 
 Im Zentrum des Vortrags wird die Einrichtung von Kerberos stehen, aber einen kleinen Teil von "Centrally Managed Users (CMU)" werde ich ebenfalls betrachten, um auch die Nutzung von Active Directory Gruppen realisieren zu können.
 
+### Link zur Agenda
+
+[Hier](https://meine.doag.org/events/anwenderkonferenz/2023/agenda/#eventDay.all#textSearch%2EKerberos%20Jordan) kommen Sie zur Agenda der DOAG, auf der Sie als Teilnehmer auch den Link zur Videoaufzeichnung finden.
+
 ### Folien
 
 [Hier](2023-11-22-DOAG_K+A-Kerberos.pdf) finden Sie das DPF mit den Folien des Vortrages.
