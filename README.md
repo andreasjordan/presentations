@@ -7,6 +7,8 @@ In this repository you will find information on presentations I have given at va
 
 [Bufferpool-Fragmentierung beim SQL Server erkennen](2023-12-14-IT-Tage-SQL-Server-Bufferpool-Fragmentierung/README.md)
 
+[Ein Flugschreiber für die SQL Server Datenbank: Die Basis für Performance-Analysen schaffen](2024-02-29-IT-Tage-SQL-Server-Flugschreiber/README.md)
+
 
 Weitere Vorträge werde ich in Kürze ergänzen...
 
