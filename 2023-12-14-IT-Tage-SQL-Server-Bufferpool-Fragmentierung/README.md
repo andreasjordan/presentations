@@ -22,4 +22,8 @@ Daher zeige ich in diesem Vortrag, wie mit ihr ressourcenschonend Informationen 
 
 ### Videos
 
-Eine Aufzeichnung des Vortrags wird in Kürze verfügbar sein.
+[Hier](https://youtu.be/OQAa4ekK9ww) finden Sie die Aufzeichnung des Vortrags auf meinem YouTube-Kanal.
+
+### Blog-Artikel
+
+[Hier](https://blog.ordix.de/buffer-pool-fragmentierung-sql-server) finden Sie meinen Blog-Artikel zu diesem Thema.
