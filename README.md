@@ -10,3 +10,5 @@ In this repository you will find information on presentations I have given at va
 [Ein Flugschreiber für die SQL Server Datenbank: Die Basis für Performance-Analysen schaffen](2024-02-29-IT-Tage-SQL-Server-Flugschreiber/README.md)
 
 [Intelligent data objects in PowerShell - A first step towards object-oriented programming](2024-11-30-PSSaturday-Intelligent-data-objects-in-PowerShell/README.md)
+
+[Vom Anwender zum Entwickler - Wie kann ich bei Open-Source-Projekten mitarbeiten?](2024-12-12-IT-Tage-OpenSource-mitarbeiten/README.md)
