@@ -9,7 +9,9 @@ DOAG Web Session 2023, Online
 ### Abstract
 
 Sowohl mit dem Oracle Client als auch per NuGet stellt Oracle eine .NET Bibliothek bereit, die sehr einfach in PowerShell eingebunden werden kann und so den Zugriff auf eine Oracle Instanz ermöglicht. Damit stehen dann auch alle Funktionen der PowerShell bei der Arbeit mit Oracle zur Verfügung.
+
 Im Vortrag werde ich unter anderem den Einsatz von Schleifen, Fehlerbehandlung und Logging zeigen, um die täglichen Arbeiten des Datenbankadministrators zu vereinfachen. Ich zeige nur wenige Folien, der Hauptteil besteht aus projektnahen Demos.
+
 Grundkenntnisse von PowerShell und/oder objektorientierter Programmierung sind von Vorteil, aber nicht Voraussetzung für die Teilnahme.
 
 ### Link zur Agenda

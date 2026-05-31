@@ -9,8 +9,11 @@ DOAG Konferenz und Ausstellung 2023, Nürnberg
 ### Abstract
 
 Immer wieder begegnet uns in Projekten die Anforderung, Daten aus anderen Datenbanksystemen nach Oracle zu übertragen. In vielen Fällen muss es dabei nicht der Live-Zugriff mit dem Oracle Gateway sein. Auch die Einrichtung und Wartung eines professionellen ETL-Tools ist meist zu aufwändig.
+
 Wenn es sich nur um wenige Tabellen und ein mittleres Datenvolumen handelt, kommt aus meiner Sicht PowerShell ins Spiel.
+
 Mit wenigen Zeilen Code und kostenfreien Bibliotheken lassen sich robuste und performante Datentransfers realisieren. Als Plattform stehen dabei Windows und Linux gleichermaßen zur Verfügung, die Steuerung kann ein beliebiger Scheduler wie cron oder der Windows Aufgabenplaner übernehmen. Wenn gewünscht, kann der Aufruf auch aus der Oracle Datenbank heraus gestartet werden.
+
 Ich werde die benötigten Bibliotheken vorstellen und anhand eines praktischen Beispiels einen Einblick in den Aufbau eines Datentransfers geben.
 
 ### Link zur Agenda
