@@ -21,7 +21,3 @@ Grundkenntnisse von PowerShell und/oder objektorientierter Programmierung sind v
 ### Folien
 
 [Hier](2023-11-10-DOAG_Web_Session-PowerShell_für_den_Oracle_DBA.pdf) finden Sie das PDF mit den Folien des Vortrages.
-
-### Link zum Video
-
-https://www.youtube.com/watch?v=tEcc05YlKsY
