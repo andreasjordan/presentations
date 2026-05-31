@@ -2,9 +2,13 @@ In diesem Repository finden Sie Informationen zu Vorträgen, die ich auf verschi
 
 In this repository you will find information on presentations I have given at various events.
 
+---
 
 2022-09-22 DOAG Konferenz und Ausstellung:<br>
 [PowerShell für den Oracle DBA](2022-09-22-DOAG-PowerShell/README.md)
+
+2022-12-12 IT-Tage:<br>
+[Oracle und SQL Server: PowerShell für Datenbank-Admins (Workshop)](2023-12-14-IT-Tage-SQL-Server-Bufferpool-Fragmentierung/README.md)
 
 2023-11-10 DOAG Web Session:<br>
 [PowerShell für den Oracle DBA](2023-11-10-DOAG-PowerShell/README.md)
