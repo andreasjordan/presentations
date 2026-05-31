@@ -4,7 +4,7 @@ Bufferpool-Fragmentierung beim SQL Server erkennen
 
 ### Veranstaltung
 
-IT-Tage, Frankfurt
+IT-Tage 2023, Frankfurt
 
 ### Abstract
 

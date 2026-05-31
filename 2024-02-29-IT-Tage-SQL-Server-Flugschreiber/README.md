@@ -4,7 +4,7 @@ Ein Flugschreiber für die SQL Server Datenbank: Die Basis für Performance-Anal
 
 ### Veranstaltung
 
-IT-Tage, Online
+IT-Tage 2024, Online
 
 ### Abstract
 
