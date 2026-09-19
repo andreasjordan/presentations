@@ -22,7 +22,7 @@ Grundkenntnisse von PowerShell und/oder objektorientierter Programmierung sind v
 
 ### Folien
 
-[Hier](PowerShell_for_Oracle_DBAs_DOAG2022.pdf) finden Sie das PDF mit den Folien des Vortrages auf deutsch.
+[Hier](PowerShell_für_Oracle_DBAs_DOAG2022.pdf) finden Sie das PDF mit den Folien des Vortrages auf deutsch.
 
 [Hier](PowerShell_for_Oracle_DBAs_DOAG2022_en.pdf) finden Sie das PDF mit den Folien des Vortrages auf englisch.
 

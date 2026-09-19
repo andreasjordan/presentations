@@ -1,6 +1,6 @@
 ### Titel
 
-Oracle: Geodaten effizient verarbeiten Session
+Oracle: Geodaten effizient verarbeiten
 
 ### Veranstaltung
 
